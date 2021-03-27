@@ -1,6 +1,6 @@
 PRIVACY POLICY    
 
-Last updated November 24, 2019  
+Last updated March 27, 2021
 
 
 
@@ -58,7 +58,7 @@ TABLE OF CONTENTS
 
 Personal information you disclose to us 
 
-In Short: We collect personal information that you provide to us such as name, address, contact information, passwords and security data, payment information, and social media login data.
+In Short: We collect personal information that you provide to us such as name, address, contact information, phone number, passwords and security data, payment information, and social media login data.
 
 We collect personal information that you voluntarily provide to us when registering at the Apps, expressing an interest in obtaining information about us or our products and services, when participating in activities on the Apps (such as posting messages in our online forums or entering competitions, contests or giveaways) or otherwise contacting us.
 
@@ -103,7 +103,7 @@ We use personal information collected via our Apps for a variety of business pur
 
 We use the information we collect or receive: 
 
-To facilitate account creation and logon process. If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. See the section below headed "HOW DO WE HANDLE YOUR SOCIAL LOGINS" for further information.      
+To facilitate account creation and logon process. If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. See the section below headed "HOW DO WE HANDLE YOUR SOCIAL LOGINS" for further information.
 
 To send you marketing and promotional communications. We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the "WHAT ARE YOUR PRIVACY RIGHTS" below).      
 
